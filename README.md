@@ -4,6 +4,7 @@ A Python wrapper on Darknet. Compatible with latest YOLO V3. YOLO 3.0 is an Obje
 https://pjreddie.com/darknet/yolo/
 
 Image Object Detection
+
 ![Res](https://user-images.githubusercontent.com/87161901/131425683-93547dcc-299f-432a-a328-f458930d6090.png)
 
 
